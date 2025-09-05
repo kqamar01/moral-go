@@ -2,6 +2,7 @@
 title: 四年级道德教育
 description: 四年级道德教育课本依据《中学标准课程与评估文件》（DSKP）道德教育KSSM编写，旨在培养品德高尚、诚信正直的个体，秉持普遍价值观，贡献于国家团结与全球福祉。
 lang: zh
+type: docs
 weight: 1
 ---
 

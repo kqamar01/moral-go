@@ -2,6 +2,7 @@
 title: Pendidikan Moral Tingkatan 5
 description: Buku teks Pendidikan Moral Tingkatan 5 berdasarkan Dokumen Standard Kurikulum dan Pentaksiran (DSKP) Pendidikan Moral KSSM, bertujuan membentuk individu bermoral tinggi, berintegriti, dan menyumbang kepada perpaduan nasional serta kesejahteraan global.
 lang: ms
+type: docs
 weight: 2
 ---
 
